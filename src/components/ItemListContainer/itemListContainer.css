@@ -1,0 +1,9 @@
+.greetingContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.pGreeting {
+  margin-top: 10%;
+  font-size: 2rem;
+}

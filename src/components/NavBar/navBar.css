@@ -1,0 +1,29 @@
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container, h1, ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #7d8f69;
+}
+
+li {
+  margin: 0 10px;
+}
+
+h1 {
+  font-weight: bolder;
+  margin-left: -20%;
+  margin-top: 2%;
+}
+
+nav {
+  margin-top: 2%;
+  display: flex;
+}
